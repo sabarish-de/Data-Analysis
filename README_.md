@@ -85,8 +85,6 @@ products   (1) ──── (M)  order_items
 
 
 ### 4. Subqueries
-- Identified products priced above the overall average
-  <img width="321" height="128" alt="Screenshot 2026-04-13 204317" src="https://github.com/user-attachments/assets/e1c91a2b-bd17-45b2-bf02-541b084a65aa" />
 
 - Used correlated subqueries to find the most expensive product per category
   <img width="167" height="47" alt="Screenshot 2026-04-13 204402" src="https://github.com/user-attachments/assets/f186c68c-7d1d-4748-ba49-45e156082315" />
