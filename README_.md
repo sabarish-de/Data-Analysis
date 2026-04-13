@@ -78,13 +78,10 @@ products   (1) ──── (M)  order_items
 
 ### 3. JOINs — INNER JOIN, LEFT JOIN
 - Joined `orders` with `customers` to display customer names on orders
-  <img width="296" height="81" alt="Screenshot 2026-04-13 204126" src="https://github.com/user-attachments/assets/d63681c4-fffb-4795-a80f-3d4affaf98f4" />
+ <img width="320" height="119" alt="Screenshot 2026-04-13 204223" src="https://github.com/user-attachments/assets/a2dfb8cc-41f4-4a9e-87d2-9db75905ff45" />
 
 - Used LEFT JOIN to list all customers including those with no orders
-  <img width="186" height="135" alt="Screenshot 2026-04-13 204156" src="https://github.com/user-attachments/assets/5b0215cc-acdc-4a80-8074-a9ef4a4ad138" />
-
-- Multi-table JOIN across all 4 tables for a full order breakdown
-  <img width="320" height="119" alt="Screenshot 2026-04-13 204223" src="https://github.com/user-attachments/assets/a2dfb8cc-41f4-4a9e-87d2-9db75905ff45" />
+<img width="292" height="129" alt="Screenshot 2026-04-13 204341" src="https://github.com/user-attachments/assets/c3cc98de-2ced-411e-9901-a633f4672e38" />
 
 
 ### 4. Subqueries
