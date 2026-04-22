@@ -1,20 +1,37 @@
-Task 3 — SQL for Data Analysis
-Elevate Labs Data Analyst Internship
+# Task 3 — SQL for Data Analysis
+**Elevate Labs Data Analyst Internship**
 
-Objective
+---
+
+## Objective
+
 Use SQL queries to extract and analyze data from a relational ecommerce database, demonstrating proficiency in querying, aggregation, joins, subqueries, views, and indexing.
 
-Tools Used
+---
 
-Database: MySQL
-Interface: MySQL Workbench
+## Tools Used
 
-Files in This Repository
-SQL-Analysis/
+- **Database:** MySQL
+- **Interface:** MySQL Workbench
+
+---
+
+## Files in This Repository
+
+```
+Data-Analysis/
 │
-├── README.md
-└── analysis.sql
-FileDescriptionanalysis.sqlAll SQL queries covering schema creation, data insertion, and analysisREADME.mdProject documentation
+├── README_.md
+└── Analysis.sql
+```
 
-Author
+| File | Description |
+|------|-------------|
+| `Analysis.sql` | All SQL queries covering schema creation, data insertion, and analysis |
+| `README_.md` | Project documentation |
+
+---
+
+## Author
 Sabarish P
+
