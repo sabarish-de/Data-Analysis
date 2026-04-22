@@ -28,7 +28,8 @@ Data-Analysis/
 | File | Description |
 |------|-------------|
 | `Analysis.sql` | All SQL queries covering schema creation, data insertion, and analysis |
-| `README_.md` | Project documentation |
+| `SQL QUERY RESULTS.pdf`|Project documentation |
+| `README_.md` | overview |
 
 ---
 
